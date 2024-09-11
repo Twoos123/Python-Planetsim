@@ -2,6 +2,8 @@
 
 A dynamic planet simulation using Pygame that visualizes the solar system, showcasing the orbits and interactions of celestial bodies. This project allows users to zoom in and out, pan the view, and interact with the planets to see their distances from the sun.
 
+![image](https://github.com/user-attachments/assets/591d6ef5-218d-4143-accc-3e58025403c6)
+
 ## Features
 
 - **Realistic Gravitational Interactions**: Simulates the gravitational pull between planets and the sun.
